@@ -3,8 +3,8 @@ Python app encrypts a given data (text) into any image so it would be unnoticeab
 
 ## How does app work?
 * Console app includes user menu with 2 option: 
- - use default image (3.000 x 1.995 pixels, .png) and default message (132 KB,  ~23.000 words, ~47 pages of text)
- - use user's image and text
+   - use default image (3.000 x 1.995 pixels, .png) and default message (132 KB,  ~23.000 words, ~47 pages of text)
+   - use user's image and text
 * After source selection app hides a message and save image to a new file "Coded_img.png"
 * If user chooses to decode a message from image, decoded text save to a new file "Outpit.txt"
 
