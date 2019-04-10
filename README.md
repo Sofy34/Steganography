@@ -1,5 +1,6 @@
 # Steganography
 Python app encrypts a given data (text) into any image so it would be unnoticeable.
+[demo_img](demo.jpg)
 
 ## How does app work?
 * Console app includes user menu with 2 option: 
