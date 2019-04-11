@@ -29,3 +29,4 @@ After a literature research method _Filter First_ was selected as the most effec
    - doesn't contain arithmetic operations
    - works with image and message as np.array
    - contains only binary wise operations
+   - doesn't contain loops
